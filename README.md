@@ -23,7 +23,7 @@ CryptoRobotics stands out due to its combination of bots, signals, smart orders,
 ## How It Works
 
 ### 1. Account Setup
-Register at [cryptorobotics.ai](https://cryptorobotics.ai) and verify your email.
+Register at Cryptorobotics and verify your email.
 
 ### 2. Connect Exchanges
 Go to `Account → Exchange Accounts`, and connect using trading-only API keys.
